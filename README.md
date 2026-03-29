@@ -13,7 +13,7 @@ The application includes an interactive GUI (ImGui) to control rendering paramet
 ## Result
 
 <p align="center">
-  <img src="output.png" width="600"/>
+  <img src="path.png" width="600"/>
 </p>
 
 ---
